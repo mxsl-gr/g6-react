@@ -3,6 +3,7 @@ Factory wrapper for using G6 easily in a React Component. https://github.com/ant
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
-  [![Linux Build][travis-image]][travis-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-  [![Test Coverage][coveralls-image]][coveralls-url]
+  
+  
+[npm-image]: https://img.shields.io/npm/v/g6-react.svg
+[npm-url]: https://npmjs.org/package/g6-react
